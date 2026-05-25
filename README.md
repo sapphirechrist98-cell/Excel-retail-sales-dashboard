@@ -117,4 +117,5 @@ The following preparation steps were completed before analysis:
 ## Author
 
 **Sunil Kumar S**  
-Aspiring Data Analyst | Advanced Excel | Power BI | Learning SQL and Python
+Aspiring Data Analyst | Advanced Excel | Power BI | Advanced SQL Learner | Python Learner | Former HPE & Accenture Professional
+
